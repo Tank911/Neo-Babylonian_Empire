@@ -1,0 +1,13 @@
+[
+	{
+		"name": "[Walls of Babylon]",
+		"replaces": "Walls",
+		"cost": 65,
+		"uniqueTo": "",
+		"cityStrength": 6,
+		"cityHealth": 100,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	}
+]
