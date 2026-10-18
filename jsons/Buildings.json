@@ -1,9 +1,9 @@
 [
 	{
-		"name": "[Walls of Babylon]",
+		"name": "[Walls of Babylon]", // Walls of Babylon → replace, [Walls of Babylon] → Walls of Babylon as Neo-Babylonian not Babylon.
 		"replaces": "Walls",
 		"cost": 65,
-		"uniqueTo": "",
+		"uniqueTo": "Neo-Babylonian", // not used on Babylon I have it Building.
 		"cityStrength": 6,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
